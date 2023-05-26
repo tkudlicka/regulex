@@ -625,7 +625,7 @@ var plotNode={
       items=items.concat(a.items);
       startY+=a.height+spacing;
     });
-    var tl=textLabel(rect.x+rect.width/2,rect.y,(node.exclude?'Žádný':'Jeden')+' z:',labelColor);
+    var tl=textLabel(rect.x+rect.width/2,rect.y,(node.exclude?'None':'One of')+' from:',labelColor);
     items.push(tl.label);
     var oldWidth=width;
     width=Math.max(tl.width,width);
