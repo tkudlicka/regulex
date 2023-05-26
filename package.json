@@ -1,0 +1,33 @@
+{
+    "name": "@tkudlicka/regulex",
+    "version": "1.0.0",
+    "description": "JavaScript Regular Expression Parser and Visualizer.",
+    "main": "src/index.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "files": [
+        "**/*"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tkudlicka/regulex.git"
+    },
+    "keywords": [
+        "Regular Expression",
+        "RegExp",
+        "Regulex"
+    ],
+    "types": "./index.d.ts",
+    "author": {
+        "name": "Jex"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "pcre-to-regexp": "^1.1.0",
+        "raphael": "^2.3.0"
+    },
+    "devDependencies": {
+        "@types/raphael": "^2.1.30"
+    }
+}

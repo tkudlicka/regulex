@@ -1,0 +1,20 @@
+
+> @avager/quasar-regulex@0.0.12 build /Users/tomaskudlicka/Code/quasar/packages/quasar-regulex
+> webpack --mode production
+
+Hash: 6ad6dff10d4fbe922152
+Version: webpack 4.46.0
+Time: 3323ms
+Built at: 05/03/2023 6:20:52 AM
+       Asset     Size  Chunks             Chunk Names
+index.min.js  133 KiB       0  [emitted]  main
+Entrypoint main = index.min.js
+[0] ./src/Kit.js 10.1 KiB {0} [built]
+[2] ./src/index.js + 5 modules 80.5 KiB {0} [built]
+    | ./src/index.js 323 bytes [built]
+    | ./src/NFA.js 8.98 KiB [built]
+    | ./src/parse.js 36.1 KiB [built]
+    | ./src/RegExp.js 10.6 KiB [built]
+    | ./src/visualize.js 24.2 KiB [built]
+    | ./src/locale.js 318 bytes [built]
+    + 1 hidden module
