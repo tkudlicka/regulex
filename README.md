@@ -1,4 +1,5 @@
 # Regulex
+Author: [CJex](https://github.com/CJex/regulex)
 
 [Regulex](https://jex.im/regulex/) is a JavaScript Regular Expression Parser & Visualizer.
 
@@ -7,6 +8,8 @@ Try it now: <https://jex.im/regulex/>
 **This is the legacy version!**
 
 **Switch export method to commonjs.**
+
+**Note: This repository has repaired ES6 module imports for easier usage.**
 
 
 ### Features
