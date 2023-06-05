@@ -1,6 +1,6 @@
 {
     "name": "@tkudlicka/regulex",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "JavaScript Regular Expression Parser and Visualizer.",
     "main": "src/index.js",
     "publishConfig": {
