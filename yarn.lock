@@ -3,9 +3,9 @@
 
 
 "@types/raphael@^2.1.30":
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/@types/raphael/-/raphael-2.3.4.tgz#85155bb8752d28242924afbf969793d28df24815"
-  integrity sha512-bukaJusnMrSW78X14gO2Y1UyAEO7an1b8P9ZrD03VlnbAdHReVZJTpMFK++g2Wc5X0vtHaYRMmqET4EjzGuk5A==
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/@types/raphael/-/raphael-2.3.6.tgz#61881c89f07f541df39d24824f955b1f7c447a7f"
+  integrity sha512-r8map1CAR8jRUPO3gJjLATM66GyoR1rhb1XXRzyqk9cUtr05HcaQ+DpqcP1YUrmJjKEBW+7H4C6qLEtNKM3VBQ==
 
 eve-raphael@0.5.0:
   version "0.5.0"
